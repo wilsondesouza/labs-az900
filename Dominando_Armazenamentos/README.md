@@ -4,6 +4,8 @@
 
 Este guia abrangente foi criado para ajudá-lo a configurar, gerenciar e migrar dados no Azure, utilizando os diversos serviços de armazenamento disponíveis, como Blobs, Arquivos, Tabelas e Filas. Siga este passo a passo para otimizar sua experiência no Azure.
 
+---
+
 ## Pré-requisitos
 
 Antes de iniciar, garanta que você possui:
@@ -11,10 +13,14 @@ Antes de iniciar, garanta que você possui:
 - Uma conta ativa no Azure. [Crie uma aqui](https://azure.microsoft.com/free/) se necessário.
 - Acesso ao [Portal do Azure](https://portal.azure.com/).
 
+---
+
 ## 1. Acessar o Portal do Azure 🌐
 
 1. Acesse o [Portal do Azure](https://portal.azure.com/) e faça login com suas credenciais.
 2. No painel de navegação à esquerda, clique em **Criar um recurso**.
+
+---
 
 ## 2. Criar e Configurar uma Conta de Armazenamento ➕
 
@@ -46,11 +52,15 @@ Antes de iniciar, garanta que você possui:
 
 1. Clique em **Revisar + criar** e depois em **Criar**.
 
+---
+
 ## 3. Configurar o Armazenamento Blob 📦
 
 1. Acesse **Serviços de Armazenamento** e selecione **Containers**.
 2. Crie um novo container e defina o nível de acesso: **Privado** ou **Público**.
 3. Carregue arquivos diretamente ou utilize o **Azure CLI** ou **Azure Storage Explorer**.
+
+---
 
 ## 4. Criar um Compartilhamento de Arquivos 📁
 
@@ -58,16 +68,22 @@ Antes de iniciar, garanta que você possui:
 2. Adicione um novo compartilhamento, defina o nome e o tamanho.
 3. Monte o compartilhamento em uma VM ou servidor usando o protocolo SMB.
 
+---
+
 ## 5. Utilizar o Armazenamento de Tabelas 📊
 
 1. No painel da Conta de Armazenamento, clique em **Tabelas**.
 2. Adicione uma nova tabela e gerencie os dados com o **Azure SDK** ou **API REST**.
+
+---
 
 ## 6. Gerenciar o Armazenamento de Filas 📬
 
 1. Na Conta de Armazenamento, clique em **Filas**.
 2. Crie uma nova fila e configure permissões de acesso.
 3. Use a **API REST** ou o **SDK do Azure** para enviar e receber mensagens.
+
+---
 
 ## 7. Migrar Dados para o Azure
 
@@ -78,6 +94,8 @@ Antes de iniciar, garanta que você possui:
 3. **Autenticar com o Azure**:
    - Siga as instruções para autenticação segura.
 
+---
+
 ## 8. Monitoramento e Alertas 🔍
 
 1. Utilize o **Azure Monitor** para acompanhar o uso do armazenamento.
@@ -87,6 +105,8 @@ Antes de iniciar, garanta que você possui:
 
 1. Configure o **Azure Backup** para recuperação de dados.
 2. Habilite a **Geo-Redundância** para garantir segurança em desastres.
+
+---
 
 ## Conclusão
 

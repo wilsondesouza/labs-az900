@@ -2,6 +2,8 @@
 
 Este guia detalhado foi elaborado para ajudá-lo a criar, configurar e dimensionar suas máquinas virtuais (VMs) no Azure de forma eficiente, garantindo que os recursos utilizados atendam perfeitamente às suas necessidades de desempenho e custo.
 
+---
+
 ## Pré-requisitos
 
 Antes de iniciar, certifique-se de ter:
