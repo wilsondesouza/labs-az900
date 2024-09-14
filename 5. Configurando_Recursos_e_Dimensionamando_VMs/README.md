@@ -138,6 +138,6 @@ Após a criação da VM, monitore o desempenho com as ferramentas integradas no 
 
 ---
 
-## Conclusão
-
+## Conclusão 🎯
+ 
 Seguindo este guia, você estará pronto para configurar e gerenciar suas máquinas virtuais no Azure de forma otimizada. Manter suas VMs dimensionadas corretamente é essencial para garantir uma boa performance e controlar os custos operacionais. Para mais informações, consulte a [documentação oficial do Azure](https://docs.microsoft.com/azure/virtual-machines/). 🚀

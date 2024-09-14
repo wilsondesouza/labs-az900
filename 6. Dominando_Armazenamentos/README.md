@@ -108,7 +108,7 @@ Antes de iniciar, garanta que você possui:
 
 ---
 
-## Conclusão
+## Conclusão 🎯
 
 Dominar o armazenamento no Azure envolve configuração cuidadosa, migração eficaz e gerenciamento contínuo de dados. Siga este guia para garantir que seus recursos de armazenamento sejam usados de forma eficiente e segura. Para mais detalhes, consulte a [documentação oficial do Azure Storage](https://docs.microsoft.com/azure/storage/).
 
