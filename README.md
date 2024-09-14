@@ -27,3 +27,4 @@ Favor navegar entre as pastas para acessar os conteúdos.
 10. [Ferramentas de Implantação](https://github.com/wilsondesouza/labs-az900/tree/main/10.%20Ferramentas_de_Implantacao)
 
 11. [Monitoramento Inteligente](https://github.com/wilsondesouza/labs-az900/tree/main/11.%20Monitoramento_Inteligente)
+
